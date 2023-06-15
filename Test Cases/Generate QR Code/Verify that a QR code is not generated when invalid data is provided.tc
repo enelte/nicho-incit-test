@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>(e.g., special characters, unsupported format).</description>
+   <name>Verify that a QR code is not generated when invalid data is provided</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02719ebe-7eb1-4041-bf69-898e358c48f4</testCaseGuid>
+</TestCaseEntity>

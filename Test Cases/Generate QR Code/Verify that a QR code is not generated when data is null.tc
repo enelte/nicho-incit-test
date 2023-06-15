@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that a QR code is not generated when data is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec6e6c26-239a-4a14-a9b6-345d7f97d145</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Calendar eventContact informationEma_1733e8</name>
+   <tag></tag>
+   <elementGuidId>59799f10-60c4-4e34-99a6-0f70f4feaf0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='leftpanel']/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.gwt-ListBox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d522e231-afdd-4255-876f-e283cc03747a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-ListBox</value>
+      <webElementGuid>b5c71062-9846-46c2-8aaf-648d659185ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calendar eventContact informationEmail addressGeo locationPhone numberSMSTextURLWifi network</value>
+      <webElementGuid>cd0c1ba1-3d1c-453a-b25d-251e8ca89f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftpanel&quot;)/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;secondColumn&quot;]/select[@class=&quot;gwt-ListBox&quot;]</value>
+      <webElementGuid>0f728ca9-cf6a-491e-bd3a-72f1810d4002</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='leftpanel']/tbody/tr/td/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>ded12413-bcdc-427a-9245-243924d392a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contents'])[1]/following::select[1]</value>
+      <webElementGuid>c927cfdb-a1c6-4e81-afe6-6a3ebe664981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from the ZXing Project'])[1]/following::select[1]</value>
+      <webElementGuid>048135a7-728f-4c93-b9a9-210c182da7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>638711ce-3fe4-410f-9754-ccd8bb42e3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::select[1]</value>
+      <webElementGuid>ca8713cc-89db-4712-a69a-014dc65dad70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>997525d1-0925-4fad-99d5-8faed2df40ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Calendar eventContact informationEmail addressGeo locationPhone numberSMSTextURLWifi network' or . = 'Calendar eventContact informationEmail addressGeo locationPhone numberSMSTextURLWifi network')]</value>
+      <webElementGuid>9094f58d-4f04-4814-8ee9-41f237d64685</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that a valid QR code is successfully scanned and decoded</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf42358f-9a95-43a2-a67c-5f154c332902</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>693f2265-9d32-4466-b14a-b9c605a4827a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;C:\\\\Users\\\\Lenovo\\\\Desktop\\\\test.txt&quot;'</defaultValue>
+      <description></description>
+      <id>693f2265-9d32-4466-b14a-b9c605a4827a</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

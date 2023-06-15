@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Address_gwt-TextBox required</name>
+   <tag></tag>
+   <elementGuidId>3ad77da7-4314-4f23-a788-d3807edf3af6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.gwt-TextBox.required</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2b3b36e2-bcdc-4ac0-add6-f731dfe38b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>43d59c4a-64bc-4f3a-981c-6b568ad99da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-TextBox required</value>
+      <webElementGuid>0f35b419-41ab-44e8-96fe-53b800bdbb0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftpanel&quot;)/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;secondColumn&quot;]/input[@class=&quot;gwt-TextBox required&quot;]</value>
+      <webElementGuid>0bdc6995-e2da-419f-b406-ddac5643eac3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>21af1248-8d5c-4649-b3a5-fdc589ee7983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='leftpanel']/tbody/tr[2]/td/table/tbody/tr/td[2]/input</value>
+      <webElementGuid>4711568f-a594-4b16-ad49-f18e490ccec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>3054ebd6-fc0d-4cfb-a0e6-42764207a7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>4a6401dc-d22c-4644-b453-17f2873e79bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
